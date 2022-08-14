@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kriova/static/css/main.073c9b0a.css",
+    "main.js": "/kriova/static/js/main.68719dc3.js",
+    "static/js/787.a912bf32.chunk.js": "/kriova/static/js/787.a912bf32.chunk.js",
+    "index.html": "/kriova/index.html",
+    "main.073c9b0a.css.map": "/kriova/static/css/main.073c9b0a.css.map",
+    "main.68719dc3.js.map": "/kriova/static/js/main.68719dc3.js.map",
+    "787.a912bf32.chunk.js.map": "/kriova/static/js/787.a912bf32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.68719dc3.js"
+  ]
+}
